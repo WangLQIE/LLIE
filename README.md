@@ -14,10 +14,8 @@ We provide the divided dataset for SID.
 
 ## Pretrained Models
 We provide  pretrained models for SID-Sony and SID-Fuji.
-   
-| Model | Sony | Fuji | 
 
-| U_GFR | [Sony](  https://pan.baidu.com/s/1tfIEiQNjwR_pxstdKF4rDw?pwd=123S   ) | [Fuji](  https://pan.baidu.com/s/1L9VEzVpRe76HuGJ0_wuRfA?pwd=123F   ) |
+| Model | [Sony](  https://pan.baidu.com/s/1tfIEiQNjwR_pxstdKF4rDw?pwd=123S   ) | [Fuji](  https://pan.baidu.com/s/1L9VEzVpRe76HuGJ0_wuRfA?pwd=123F   ) |
 
 提取码:123S,123F
 
